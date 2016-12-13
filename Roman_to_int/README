@@ -1,0 +1,20 @@
+A simple program that converts a string of Roman Numerals into integer.
+
+Example of running it
+
+huizex@myth16:~/classes/build_it/coding_practice$ ./roman_to_int III
+III
+input: III, output: 3
+huizex@myth16:~/classes/build_it/coding_practice$ ./roman_to_int II
+II
+input: II, output: 2
+huizex@myth16:~/classes/build_it/coding_practice$ ./roman_to_int I
+I
+input: I, output: 1
+huizex@myth16:~/classes/build_it/coding_practice$ ./roman_to_int X
+X
+input: X, output: 10
+huizex@myth16:~/classes/build_it/coding_practice$ ./roman_to_int IV
+IV
+input: IV, output: 4
+
