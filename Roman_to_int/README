@@ -2,6 +2,9 @@ A simple program that converts a string of Roman Numerals into integer.
 
 Example of running it
 
+huizex@myth16:~/classes/build_it/coding_practice/Roman_to_int$ ./roman_to_int CMXLVIII
+CMXLVIII
+input: CMXLVIII, output: 948
 huizex@myth16:~/classes/build_it/coding_practice$ ./roman_to_int III
 III
 input: III, output: 3

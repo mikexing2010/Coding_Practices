@@ -18,7 +18,7 @@
 #define TABLESIZE 13
 int romanToInt(char* s) {
     char * symbols[TABLESIZE] = {"IV", "IX", "XL", "XC", "CD", "CM", "I", "V", "X", "L", "C", "D", "M"};
-    int value[TABLESIZE] = {4, 9, 40, 90, 400, 900, 1, 5, 10, 50, 100, 500 };
+    int value[TABLESIZE] = {4, 9, 40, 90, 400, 900, 1, 5, 10, 50, 100, 500, 1000 };
     int integerVal = 0;
     int i, j;
     // go through the strings
